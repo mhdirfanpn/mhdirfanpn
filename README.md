@@ -6,11 +6,10 @@
 
 <!-- - 🌱 I’m currently learning **TypeScript** -->
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **Javascript, NodeJs, ExpressJs and React**
 
 - 📫 How to reach me **mhdirfanpn@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FTpyYHt2Mfr7GO4Jw_Pjg8pqVlKwSRQl/view?usp=sharing](https://drive.google.com/file/d/1FTpyYHt2Mfr7GO4Jw_Pjg8pqVlKwSRQl/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
