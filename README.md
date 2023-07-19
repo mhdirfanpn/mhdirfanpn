@@ -6,7 +6,7 @@
 
 <!-- - 🌱 I’m currently learning **TypeScript** -->
 
-- 💬 Ask me about **JavaScript, TypeScript, NodeJs, ExpressJs and React**
+- 💬 Ask me about **JavaScript, TypeScript, Node, Express and React**
 
 - 📫 How to reach me **mhdirfanpn@gmail.com**
 
